@@ -12,6 +12,9 @@ Study on the effects of announcement on abnormal returns to the excess returns o
 - Rebalance at each announcement date
 
 ## Findings
+Cumulative abnormal returns of each group before & after the event:
+![alt text](sue.png)
+
 - The ten groups exhibit a pronounced and systematic separation in their Cumulative Abnormal Returns (CARs) throughout the entire event window.
 - Price adjustment is not instantaneous after the announcement.
 - The significant divergence in CARs before the event date indicates that the market was already pricing in the upcoming positive or negative information.
